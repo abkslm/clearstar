@@ -1,3 +1,6 @@
+### NOT TESTED ---> ASSUMED NON-DESTRUCTIVE
+### BE WARNED!!! RUN AT YOUR OWN RISK
+
 $WRKDIR=$HOME/sh/clearstar
 
 if [ ! -d "$HOME/sh" ]
